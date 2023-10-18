@@ -1,0 +1,37 @@
+{
+  "i18n-ally.localesPaths": [
+    "web/frontend/locales"
+  ],
+  "i18n-ally.enabledFrameworks": [
+    "i18next-shopify"
+  ],
+  "i18n-ally.keystyle": "nested",
+  "solargraph.formatting": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[sass]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[graphql]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[ruby]": {
+    "editor.defaultFormatter": "castwide.solargraph"
+  },
+}
