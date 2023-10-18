@@ -15,7 +15,7 @@
     "@shopify/app": "3.49.7",
     "@shopify/cli": "3.49.7"
   },
-  "author": "apple",
+  "author": "tommy",
   "private": true,
   "workspaces": [
     "extensions/*"
