@@ -12,9 +12,12 @@
   "editor.tabSize": 2,
   "editor.fontSize": 12,
   "editor.fontWeight": "normal",
+  "editor.letterSpacing": 0.3,
   "editor.autoClosingBrackets": "always",
   "editor.autoClosingComments": "always",
   "editor.autoClosingQuotes": "always",
+  "editor.insertSpaces": true,
+  "scss.format.spaceAroundSelectorSeparator": true,
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -42,4 +45,6 @@
   "[ruby]": {
     "editor.defaultFormatter": "castwide.solargraph"
   },
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.lineHeight": 1.2,
 }
