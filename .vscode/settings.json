@@ -7,6 +7,14 @@
   ],
   "i18n-ally.keystyle": "nested",
   "solargraph.formatting": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.tabSize": 2,
+  "editor.fontSize": 12,
+  "editor.fontWeight": "normal",
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingComments": "always",
+  "editor.autoClosingQuotes": "always",
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
